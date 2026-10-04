@@ -1,0 +1,11 @@
+# Virtual Environment Folder
+.venv/
+
+# Python ByteCode Cache Folders
+__pycache__/
+
+# ENV Files (basically secrets like API keys or passwords)
+.env
+
+# Compiled Python Files
+*.pyc
