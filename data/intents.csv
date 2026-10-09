@@ -1,0 +1,10 @@
+text,intent
+hello jarvis,greeting
+yo jarvis,greeting
+whats up jarvis,greeting
+what time is it right now,time
+whats the time jarvis,time
+could you tell me the current time,time
+launch spotify for me,open_app
+open browser,open_app
+open inbox,open_app
