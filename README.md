@@ -16,3 +16,7 @@ A Real AI Assistant, built incrementally in order to learn Machine Learning
 - Started working with scikit-learn
 - Spliting data into training and testing splits.
 - Stratify the training anf testing splits 
+
+**Day 04**
+- Built a custom `tokenize()` function that cleans symbols, handles hyphens, and standardizes curly quotes/apostrophes into clean words.
+- Implemented `sentence_to_vector()` to convert any text input into word-frequency numerical vectors for model training.
