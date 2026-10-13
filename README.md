@@ -20,3 +20,7 @@ A Real AI Assistant, built incrementally in order to learn Machine Learning
 **Day 04**
 - Built a custom `tokenize()` function that cleans symbols, handles hyphens, and standardizes curly quotes/apostrophes into clean words.
 - Implemented `sentence_to_vector()` to convert any text input into word-frequency numerical vectors for model training.
+
+**Day 05**
+- Move functions to `features.py`
+- Started with automatic tests using pytest

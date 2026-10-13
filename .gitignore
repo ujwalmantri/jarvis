@@ -9,3 +9,6 @@ __pycache__/
 
 # Compiled Python Files
 *.pyc
+
+# directory created automatically by pytest to store state and data between test runs.
+.pytest_cache/
